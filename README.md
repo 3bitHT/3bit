@@ -9,4 +9,7 @@ Copy code
 Una volta dentro la directory del progetto, avviare il programma Python eseguendo il seguente comando:
 Copy code
 @@@@@@@@ python 3bit.py @@@@@@@@@
-Ora puoi utilizzare il programma. Una volta che hai finito, chiudi il programma e il terminale per completare l'operazione.
+mettere nome utente : admin
+password : admin
+se qualcunoe un sviluppatore entrare su 3bit.py e modificare i dati acceso
+GRAZIE
