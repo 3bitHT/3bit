@@ -10,6 +10,6 @@ Una volta dentro la directory del progetto, avviare il programma Python eseguend
 Copy code
 @@@@@@@@ python 3bit.py @@@@@@@@@
 mettere nome utente : admin
-password : admin
+                           password : admin
 se qualcunoe un sviluppatore entrare su 3bit.py e modificare i dati acceso
 GRAZIE
